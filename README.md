@@ -7,7 +7,7 @@
 
 <img src="https://github.com/dev-aniketj/Weather-App/blob/master/SS/gif1.gif" width="200"/>
 
-## Screenshots
+## Screenshot
 
 <p float="left">
 	<img src="https://github.com/dev-aniketj/Weather-App/blob/master/SS/image1.jpg" width="200"/>
